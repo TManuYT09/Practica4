@@ -46,7 +46,7 @@ public class Main {
         if (num1!=0){
             System.out.println((num1*muln)+"xx");
         }else{
-            System.out.println((num1*muln));
+            System.out.println("    "+(num1*muln));
         }
         System.out.println("________");
         System.out.println(rels);
